@@ -1,4 +1,23 @@
-* { color: firebrick;}
-h1 { color: blue;}
-li { color: rgb(241, 159, 241);}
-.huom { color: red;}
+body {
+    margin: 0 auto;
+    padding: 4em 1em;
+    max-width: 50em;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(77, 77, 77);
+}
+
+h1 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+.otsikko { color: #333;}
+
+.vierekkain {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 2em;
+}
+
+.huom { color: #929292;}
