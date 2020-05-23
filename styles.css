@@ -1,0 +1,24 @@
+.boksi {
+    width: 200px;
+    height: 100px;
+    
+}
+
+.sailio {
+    position: relative;
+    display: inline-block;
+    top: -15px;
+    margin-right: 40px;
+}
+
+.eka {
+    background-color: red;
+}
+
+.toka {
+    background-color: yellow;
+}
+
+.kolmas {
+    background-color: green;
+}
