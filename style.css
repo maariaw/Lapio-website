@@ -1,1 +1,4 @@
-p { background-color: red;}
+* { color: firebrick;}
+h1 { color: blue;}
+li { color: rgb(241, 159, 241);}
+.huom { color: red;}
